@@ -49,9 +49,9 @@ bool isFinished() {
 
   } else {
     return false;
-  }
+  }}
 
   void reset() {
     _questionNumber = 0;
   }
-}
+
